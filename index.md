@@ -12,3 +12,9 @@ def Greeting(name):
   print(f"Hello {name}")
 Greeting("cesar")
 ```
+
+
+### To do:
+- [ ] Change my password
+- [ ] Call my brother
+- [x] Learn Markdown
